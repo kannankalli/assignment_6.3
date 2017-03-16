@@ -1,0 +1,6 @@
+hadoop jar /home/acadgild/Desktop/Test.jar /user/acadgild/television.txt /user/acadgild/out_sold_company
+
+
+
+
+

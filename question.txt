@@ -1,0 +1,3 @@
+10. Enhance the task 8 (refer session 6, assignment 1) to calculate the top 3 state-wise sales for each company.
+You may use multiple reducers for this activity.
+
